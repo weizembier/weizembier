@@ -4,11 +4,11 @@ Soy un chico de un pueblo de Almeria y estudie en principio un FPGS de desarroll
 
 ## Hobbies
 
-:tw-1f3b6: Soy un gran apasionado de la musica y cuando tengo algo de tiempo me gusta tocar mi insturmento favorito, la bateria :tw-1f60d:
+:notes: Soy un gran apasionado de la musica y cuando tengo algo de tiempo me gusta tocar mi insturmento favorito, la bateria :drum:
 
-Me encanta nadar :tw-1f3ca:  y jugar al baloncesto :tw-1f3c0: con los amigos.
+Me encanta nadar :swimmer: y jugar al baloncesto :basketball_man: con los amigos.
 
-:tw-1f4bb: Ademas, soy un gran apasionado de la tecnologia y de los videojuegos. 
+:computer: Ademas, soy un gran apasionado de la tecnologia y de los videojuegos. 
 
 
 ## Tecnologías
