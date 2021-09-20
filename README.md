@@ -1,4 +1,4 @@
-# Hola, soy Francisco Berenguel y te cuento un poco de mi :tw-1f44b: 
+# Hola, soy Francisco Berenguel y te cuento un poco de mi :wave:
 
 Soy un chico de un pueblo de Almeria y estudie en principio un FPGS de desarrollo de aplicaciones multiplataforma y actualmente estoy cursando el FPGS de desarrollo de aplicaciones web.
 
